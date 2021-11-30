@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.f9889459.chunk.css",
-    "main.js": "/static/js/main.88b4e0a0.chunk.js",
-    "main.js.map": "/static/js/main.88b4e0a0.chunk.js.map",
+    "main.js": "/static/js/main.f3dff479.chunk.js",
+    "main.js.map": "/static/js/main.f3dff479.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c9f1663c.js",
     "runtime-main.js.map": "/static/js/runtime-main.c9f1663c.js.map",
     "static/js/2.6d800fcc.chunk.js": "/static/js/2.6d800fcc.chunk.js",
@@ -16,13 +16,13 @@
     "static/media/kpmg.f4cc9c09.png": "/static/media/kpmg.f4cc9c09.png",
     "static/media/me.6aedb08d.png": "/static/media/me.6aedb08d.png",
     "static/media/signature.784a963e.png": "/static/media/signature.784a963e.png",
-    "static/media/spotter-bg-mobile.ac3f50a4.png": "/static/media/spotter-bg-mobile.ac3f50a4.png",
+    "static/media/spotter-bg-mobile.805ab3e8.png": "/static/media/spotter-bg-mobile.805ab3e8.png",
     "static/media/spotter-bg.189767e4.png": "/static/media/spotter-bg.189767e4.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c9f1663c.js",
     "static/js/2.6d800fcc.chunk.js",
     "static/css/main.f9889459.chunk.css",
-    "static/js/main.88b4e0a0.chunk.js"
+    "static/js/main.f3dff479.chunk.js"
   ]
 }
