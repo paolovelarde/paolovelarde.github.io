@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import styled from 'styled-components';
 import Wealthsimple from '../img/wealthsimple.png';
 import Clearco from '../img/clearco.png';
@@ -7,7 +7,6 @@ import CIBC from '../img/cibc.png';
 import KPMG from '../img/kpmg.png';
 import Interac from '../img/interac.png';
 import Expand from '../img/expand.png';
-import ExpandDark from '../img/expand-dark.png';
 import Modal from 'react-modal';
 import disableScroll from 'disable-scroll';
 

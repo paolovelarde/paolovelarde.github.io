@@ -1,10 +1,6 @@
-import React from 'react';
 import styled from 'styled-components';
 import me from '../img/me.png';
-import LightButton from '../img/light-button.png';
-import DarkButton from '../img/dark-button.png';
 import Signature from '../img/signature.png';
-import SignatureDark from '../img/signature-dark.png';
 
 const Wrapper = styled.div`
     display: flex;

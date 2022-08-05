@@ -1,4 +1,3 @@
-import React, { Component } from 'react';
 import styled from 'styled-components';
 import Home from './components/Home';
 import Experience from './components/Experience';
