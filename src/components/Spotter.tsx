@@ -285,7 +285,7 @@ function Experience() {
                     </Wrapper>
                     <SpotterIntro>
                         <Title>Personal Project</Title>
-                        <P2>Spotter is a fitness app that focuses on user experience. <br /> Features include free workout routines, calorie tracking, and more.</P2>
+                        <P2>Spotter is a fitness app that focuses on UI/UX. <br /> Features include workout routines for different purposes, calorie tracking, and more.</P2>
                         <P2Title>Technologies used:</P2Title>
                         <TechDiv>
                             <TechLabel><Tech>React Native</Tech></TechLabel>
